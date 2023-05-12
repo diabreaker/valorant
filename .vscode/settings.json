@@ -1,0 +1,8 @@
+{
+  "markdownlint.config": {
+    "MD022": false,
+    "MD033": false,
+    "MD025": false,
+    "MD041": false  // for chapters with no links.`
+  }
+}
