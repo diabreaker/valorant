@@ -1,16 +1,16 @@
 # Summary
 
-# Maps
+# \[ Maps \]
 
 - [ACENT]()
 - [BIND]()
 - [BREEZE]()
 - [FRACTURE]()
 - [HAVEN]()
-- [ICEBOX]()
-  - [Viper]()
-- [LOTUS](./maps/lotus.md)
+- [ICEBOX](./maps/icebox.md)
+  - [Viper](./maps/icebox/viper.md)
+- [LOTUS]()
 - [PEARL]()
 - [SPLIT]()
 
-# Agents
+# \[ Agents \]
