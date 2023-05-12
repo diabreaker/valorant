@@ -4,5 +4,6 @@
     "MD033": false,
     "MD025": false,
     "MD041": false  // for chapters with no links.`
-  }
+  },
+  "recommendations": ["bungcip.better-toml", "bierner.markdown-mermaid", "DavidAnson.vscode-markdownlint"], 
 }
