@@ -2,15 +2,17 @@
 
 # \[ Maps \]
 
-- [ACENT]()
-- [BIND]()
-- [BREEZE]()
-- [FRACTURE]()
-- [HAVEN]()
-- [ICEBOX](./maps/icebox.md)
+- [Ascent](./maps/ascent.md)
+- [Bind](./maps/bind.md)
+- [Breeze](./maps/breeze.md)
+- [Fracture](./maps/fracture.md)
+- [Haven](./maps/haven.md)
+- [Icebox](./maps/icebox.md)
   - [Viper](./maps/icebox/viper.md)
-- [LOTUS]()
-- [PEARL]()
-- [SPLIT]()
+- [Lotus](./maps/lotus.md)
+- [Pearl](./maps/pearl.md)
+- [Split](./maps/split.md)
 
-# \[ Agents \]
+# \[Others\]
+
+- [Thanks](./thanks.md)
